@@ -1,0 +1,28 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+pubspec.lock
+
+# VS Code
+.vscode/
+
+# Dart
+*.dart.js
+*.dart.js.deps
+*.dart.js.map
+*.info.json
+
+# Web
+web/index.html.bak
+
+# Project-local files
+instructions.txt
+
+# OS
+.DS_Store
+Thumbs.db
