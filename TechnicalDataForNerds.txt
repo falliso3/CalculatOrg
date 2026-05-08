@@ -1,0 +1,6 @@
+Developer Specs (if ever needed for context):
+- Arch Linux/EndeavourOS 7 +
+- VSCodium + Flutter extension
+- bash for debugging (NOT zsh)
+- Flutter 3
+- Use Chromium for debugging/live server
