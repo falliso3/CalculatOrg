@@ -1,1 +1,20 @@
-CalculatOrg:
+Calculatorg:
+
+What is it?
+Calculatorg is a simple calculator tool that is currently just web based for the time being.
+The goal of this tool is to remove the hassle of using calculator tools like TI emulators
+or simple 4 operation calculator apps. One is too complex for most use cases and one is too
+simple, so while they both have their own time and place; the majority of the time they're
+either serious underkill or overkill.
+
+The goal of this project is to strike a happy medium between the two: to allow for complex
+operations if the user needs, but not to have so many operations available that it overwhelms
+the user. Ideally, the user should be able to get things done faster with my product than
+any other calculator tool or emulator out there. I've designed this site to be as quick and
+efficient as possible, to let people use it as quickly as they can, and then let them get back
+to more important work.
+
+If you have any feedback, please reach out to me. If you wish to contribute, again, please contact
+me. Thank you for using Calculatorg and I hope I've removed a pain point from your life :)
+
+Felix A.
