@@ -1,0 +1,40 @@
+CalculatOrg - TODO
+==================
+
+SETUP
+  1. [x] Choose framework (Flutter, web-first)
+  2. [x] Configure dev environment
+  3. [x] Scaffold Flutter project (calculatorg)
+  4. [ ] Add dependencies to pubspec.yaml
+     -> math_expressions (expression parsing)
+     -> provider (state management)
+     -> shared_preferences (history persistence)
+
+ARCHITECTURE
+  5. [x] Define app theme (light/dark, colors, gradients)
+  6. [x] Set up state management structure (providers)
+  7. [x] Set up routing/navigation between modes (slide drawer)
+  8. [ ] Define shared history model and storage logic
+
+MODES
+  9.  [ ] Standard calculator
+  10. [ ] Scientific calculator
+  11. [ ] Programmer calculator (hex/bin/oct/dec)
+  12. [ ] Unit converter
+  13. [ ] Currency converter (placeholder UI only for now, API integration later)
+
+HISTORY
+  14. [ ] History panel/view accessible from all modes
+  15. [ ] Per-entry deletion
+  16. [ ] Clear all history option
+
+UI / THEMING
+  17. [ ] Light mode: white + light purple, purple gradient
+  18. [ ] Dark mode: dark gray/black + pink, pink-to-purple gradient
+  19. [ ] Mode switcher menu (clean, intuitive navigation)
+  20. [ ] Responsive layout for different screen sizes
+
+NOTES
+  -> Currency converter needs a free exchange rate API (no hardcoded keys)
+  -> History should persist across sessions via shared_preferences
+  -> All secrets/API keys go in environment config, never in source
